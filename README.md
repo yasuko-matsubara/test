@@ -28,8 +28,8 @@ Installation
 python settings: 
 	You might need to install "lmfit" and "sklearn", 
  - lmfit (for fit.py): 
-    $ git clone git://github.com/lmfit/lmfit-py
-    $ sudo python setup.py install
+	$ git clone git://github.com/lmfit/lmfit-py
+	$ sudo python setup.py install
  - sklearn (for fastica, ica.py):
     $ git clone git://github.com/scikit-learn/scikit-learn
     $ sudo python setup.py install
