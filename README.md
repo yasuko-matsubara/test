@@ -25,8 +25,8 @@ Quick demo
 Installation
 ------------
 
-	python settings: 
-		You might need to install "lmfit" and "sklearn", 
+python settings: You might need to install "lmfit" and "sklearn", 
+
 	 - lmfit (for fit.py): 
 		$ git clone git://github.com/lmfit/lmfit-py
 		$ sudo python setup.py install
