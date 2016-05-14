@@ -16,23 +16,23 @@ This is a python code of "CompCube"
 Quick demo
 ------------
 
-	(a) Interactive demo (product-related keywords)
-        	$ make demo
-	(b) Fitting data
-        	$ make fit
+	1. Interactive demo (product-related keywords)
+       		$ make demo
+	2. Fitting data
+       		$ make fit
 
 ------------
 Installation
 ------------
 
-python settings: 
-	You might need to install "lmfit" and "sklearn", 
- - lmfit (for fit.py): 
-	$ git clone git://github.com/lmfit/lmfit-py
-	$ sudo python setup.py install
- - sklearn (for fastica, ica.py):
-    $ git clone git://github.com/scikit-learn/scikit-learn
-    $ sudo python setup.py install
+	python settings: 
+		You might need to install "lmfit" and "sklearn", 
+	 - lmfit (for fit.py): 
+		$ git clone git://github.com/lmfit/lmfit-py
+		$ sudo python setup.py install
+	 - sklearn (for fastica, ica.py):
+	    $ git clone git://github.com/scikit-learn/scikit-learn
+	    $ sudo python setup.py install
 
 
 ------------
@@ -53,7 +53,7 @@ Yasuko Matsubara, Yasushi Sakurai, Christos Faloutsos,
 Updates
 ------------
 
-Version: 5-15-2016
+Version: `5-15-2016'
     - released
 
 
