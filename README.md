@@ -53,7 +53,7 @@ Yasuko Matsubara, Yasushi Sakurai, Christos Faloutsos,
 Updates
 ------------
 
-Version: `5-15-2016'
+Version: `5-15-2016`
     - released
 
 
